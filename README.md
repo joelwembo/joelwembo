@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python / Django / React Js / AWS
 - 🌱 I’m currently learning Kubernetes
 - 💞️ I’m looking to collaborate on Django Projects
-- 📫 How to reach me ...
+- 📫 How to reach me at joelwembo@outlook.com
 
 <!---
 joelwembo/joelwembo I am Full-Stack Developer, I specialize on building applications for banking, blockchain, ecommerce and financial services using Python, Django, 
