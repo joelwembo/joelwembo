@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joelwembo
 - 👀 I’m interested in Python / Django / React Js / AWS
 - 🌱 I’m currently learning Kubernetes
-- 💞️ I’m looking to collaborate on Django Projects
+- 💞️ I’m looking to collaborate on Python, Django or React JS Projects
 - 📫 How to reach me at joelotepawembo@gmail.com
 
 <!---
