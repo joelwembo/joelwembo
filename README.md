@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joelwembo
-- 👀 I’m interested in Infrastructure as Code/ Solutions architect / Django Developer / React Js / AWS
+- 👀 I’m interested in Infrastructure as Code/ Solutions architect / Django Developer / React Js / AWS Web Services
 - 🌱 I’m currently learning Kubernetes
 - 💞️ I’m looking to collaborate on Python, Django or React JS Projects
 - 📫 How to reach me at joelotepawembo@gmail.com
