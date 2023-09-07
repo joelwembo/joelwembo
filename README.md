@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joelwembo
 - 👀 I’m interested in Infrastructure as Code/ Solutions architect / Django Developer / React / AWS Web Services
 - 🌱 I’m currently learning EKS (AWS Kubernetes as service) , Apache Airflow
-- 💞️ I’m looking to collaborate on AWS CDK , Docker, CI/CD, Github Actions, Jenkins , Kubernetes , Ansible,
+- 💞️ I’m looking to collaborate on AWS CDK , Docker, CI/CD, Github Actions, Jenkins , Kubernetes , Terraform Ansible,
 -  NodeJS Typescript, Python, Django , React JS Projects, AI/Machine Learning
 - 📫 How to reach me at joelotepawembo@gmail.com
 
