@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning EKS (AWS Kubernetes as service) , Apache Airflow
 - 💞️ I’m looking to collaborate on AWS CDK , Docker, CI/CD, Github Actions, Jenkins , Kubernetes , Terraform, Ansible,
 -  NodeJS Typescript, Python, Django , Redis, PostgreSQL, React JS, AI/Machine Learning and Apache Kafka
-- 📫 How to reach me at joelotepawembo@gmail.com
 
 <!---
 joelwembo/joelwembo I am Joel Otepa Wembo Cloud platform solutions architect consultant offering an immense experience, diligent, intelligent and critical
