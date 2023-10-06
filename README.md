@@ -12,6 +12,6 @@ AWS, Kubernetes, Docker, Python, Django, Terraform, SQL, Jenkins and NodeJS. I h
 both back-end, front-end and devops for commercial banking, Brokerage Firms, Investment Banking, Insurances
 and blockchain; creating mobile apps, API Integration, ETL pipelines, CI/CD and cloud solutions architectures.
 --->
-- Portfolio : https://joelwembo.com
+- web : https://joelwembo.com
 - linkedin:   https://www.linkedin.com/in/joelotepawembo/
 - Twitter:    https://twitter.com/joelwembo1
