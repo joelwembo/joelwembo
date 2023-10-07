@@ -5,10 +5,9 @@
 -  NodeJS, Python, Django , Redis, PostgreSQL, AI/Machine Learning and Kafka
 
 <!---
-joelwembo/joelwembo I'm Joel Wembo Cloud platform solutions architect consultant offering an immense experience, diligent, intelligent 
-and criticaltechnical skills. I specialize in building applications for financial, IT, and Security Software as services solutions using
-AWS, Kubernetes, Docker, Python, Django, Terraform, SQL, Jenkins and NodeJS. I have achieved works in mobile apps, API Integration, 
-ETL pipelines, CI/CD and cloud solutions architectures.
+joelwembo/joelwembo I'm Joel Wembo Cloud platform solutions architect consultant. I specialize in building applications for financial,
+IT, and Security Software as services solutions using AWS, Kubernetes, Docker, Python, Django, Terraform, SQL, Jenkins and NodeJS. 
+I have achieved works in mobile apps, API Integration, ETL pipelines, CI/CD and cloud solutions architectures.
 --->
 I'm always keen to hear about new collaborations so feel free to contact :
 - web : https://joelwembo.com
