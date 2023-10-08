@@ -12,4 +12,3 @@ I have achieved works in mobile apps, API Integration, ETL pipelines, CI/CD and 
 I'm always keen to hear about new collaborations so feel free to contact :
 - web : https://joelwembo.com
 - linkedin:   https://www.linkedin.com/in/joelotepawembo/
-- Twitter:    https://twitter.com/joelwembo1
