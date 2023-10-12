@@ -2,7 +2,7 @@
 - 👀 I’m interested in Infrastructure as Code/ Cloud Computing/ Django/ Kubernetes / AWS Web Services.
 - 🌱 I’m currently learning EKS (AWS Kubernetes as service) , Apache Airflow.
 - 💞️ I’m looking to collaborate on AWS CDK , Docker, CI/CD, Github Actions, Jenkins , Kubernetes , Terraform,
--  NodeJS, Python, Django , Redis, PostgreSQL, Kafka and  AI/Machine Learning.
+-  NodeJS, Python, Django, Redis, PostgreSQL, Kafka and AI/Machine Learning.
 
 <!---
 joelwembo/joelwembo I'm Joel Wembo Cloud platform solutions architect consultant. I specialize in building applications for financial services,
