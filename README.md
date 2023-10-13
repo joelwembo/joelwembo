@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on AWS CDK, Jenkins , Kubernetes , Terraform, NodeJS, Django, and AI.
 
 <!---
-joelwembo/joelwembo I'm Joel Wembo Cloud platform solutions architect consultant. I specialize in building applications for financial services,
-IT, and Security Software as services solutions using AWS, Kubernetes, Docker, Python, Django, Terraform, SQL, Jenkins and NodeJS. 
+joelwembo/joelwembo I'm Joel Wembo Cloud solutions architect consultant. I specialize in building applications for financial services,
+IT, and network using AWS, Kubernetes, Docker, Python, Django, Terraform, SQL, Jenkins and NodeJS. 
 I have achieved works in mobile apps, API Integration, ETL pipelines, CI/CD and cloud solutions architectures.
 --->
 I'm always keen to hear about new collaborations so feel free to contact :
