@@ -5,9 +5,6 @@
 - ☸️ Portfolio in Progress: [joelwembo.github.io/
 ](https://joelwembo.github.io/about.html)
 
-Links:
-Sponsor me : [https://buymeacoffee.com/joelwembo](https://buymeacoffee.com/joelwembo)
-
 <!---
 joelwembo/joelwembo I'm Joel Wembo Cloud solutions architect consultant. I specialize in building applications for financial services,
 IT, and network using AWS, Kubernetes, Docker, Python, Django, Terraform, SQL, Jenkins and NodeJS. 
