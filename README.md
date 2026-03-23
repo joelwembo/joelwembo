@@ -49,6 +49,6 @@ Leading the architecture for multi-tenant SaaS platforms, focusing on automated 
 ## 📫 Connect with me
 * **LinkedIn:** [linkedin.com/in/joelwembo](https://linkedin.com/in/joelwembo)
 * **Website:** [prodxcloud.com](https://prodxcloud.com)
-* **Email:** [Your Email Here]
+* **Email:** [joelwembo@outlook.com]
 
 *"Building systems that don't just run, but think and endure."*
