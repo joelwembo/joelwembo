@@ -1,7 +1,7 @@
 
 # Hi there, I'm Joel Wembo 👋
 
-### Cloud Architect | Agentic AI Engineer | Data Center Architect at Prodxcloud
+### Cloud Architect | Agentic AI Engineer | Data Center Architect at prodxcloud
 
 I specialize in bridging the gap between robust infrastructure and intelligent automation. My work focuses on building **Durable AI Agents** and scaling mission-critical workloads across multi-cloud environments.
 
