@@ -32,8 +32,19 @@ I specialize in bridging the gap between robust infrastructure and intelligent a
 ### 🧠 Durable Agentic Workflows
 Developing resilient AI agents using **Temporal.io** to manage long-running stateful executions. By combining LangChain with Temporal, I ensure that complex AI reasoning tasks are fault-tolerant and human-in-the-loop ready.
 
-### 📄 Fine-Tuned RAG Resume Parser
-Building a high-precision parser leveraging **PyTorch** and **Hugging Face** (Mistral). This project focuses on hybrid search and cross-encoder re-ranking to extract structured data from unstructured career documents.
+### 📄 Fine-Tuned RAG Cloud Recommendation Model for Entreprise Software provisionning
+High-Precision Information Extraction & Orchestration
+
+Developed a sophisticated Cloud Agentic Model using PyTorch and Hugging Face (Mistral/Gemini) designed to process large-scale datasets for enterprise deployment. This project optimizes the transition from unstructured career documents to structured data through advanced retrieval and cost-efficient inference.
+
+🛠 Technical Architecture
+Model Orchestration: Leverages Hugging Face transformers and PyTorch for fine-tuning Mistral-7B, serving as the core reasoning engine.
+
+Cloud Agent Logic: Implemented a cloud-native agent capable of Cloud Reconnaissance (Cloud Reco) to dynamically allocate resources, significantly reducing latency and operational overhead.
+
+Search & Ranking: Employs Hybrid Search (Vector + Keyword) paired with a Cross-Encoder re-ranker to ensure the highest accuracy in document retrieval.
+
+Cost Efficiency: Integrated Gemini and custom quantization techniques to reduce API token consumption and "authoring" costs without sacrificing parsing precision.
 
 ### 🏗️ Prodxcloud Ecosystem
 Leading the architecture for multi-tenant SaaS platforms, focusing on automated provisioning and scaling ML services for high-traffic applications.
