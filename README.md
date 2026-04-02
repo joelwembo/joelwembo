@@ -6,6 +6,7 @@
 I specialize in bridging the gap between robust infrastructure and intelligent automation. My work focuses on building **Durable AI Agents** and scaling mission-critical workloads across multi-cloud environments.
 
 ---
+<img width="1916" height="910" alt="image" src="https://github.com/user-attachments/assets/a3afd03f-8519-4273-bc59-2dc3d8be0d87" />
 
 ## 🛠 Tech Stack & Core Competencies
 
