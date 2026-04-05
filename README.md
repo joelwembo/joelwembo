@@ -6,6 +6,7 @@
 I specialize in bridging the gap between robust infrastructure and intelligent automation. My work focuses on building **Durable AI Agents** and scaling mission-critical workloads across multi-cloud environments.
 
 ---
+Vibe Coding Tool with Local/external Models
 <img width="1916" height="911" alt="image" src="https://github.com/user-attachments/assets/6eb20d3f-2ef6-4441-b095-14f70e5e1d7f" />
 
 <img width="1912" height="915" alt="image" src="https://github.com/user-attachments/assets/9ebf0e11-c33d-4e21-9856-790f4e18adbc" />
