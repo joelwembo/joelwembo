@@ -32,10 +32,6 @@ Vibe Coding Tool with Local/external Models with prodxcloud
 <img width="1916" height="911" alt="image" src="https://github.com/user-attachments/assets/6eb20d3f-2ef6-4441-b095-14f70e5e1d7f" />
 <img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/189770e8-1f09-4075-9888-fcdf5f14f8b7" />
 
-DevOps Agent Mode
-<img width="1912" height="987" alt="image" src="https://github.com/user-attachments/assets/8101bd04-6ec2-42a0-8324-8fa1f985f786" />
-
-
 ### 🧠 Durable Agentic Workflows
 Developing resilient AI agents using **Temporal.io** to manage long-running stateful executions. By combining LangChain with Temporal, I ensure that complex AI reasoning tasks are fault-tolerant and human-in-the-loop ready.
 
