@@ -21,7 +21,7 @@ I specialize in bridging the gap between robust infrastructure and intelligent a
 
 ### 💻 Backend & Development
 * **Languages:** Python (FastAPI, Django, PyTorch), Go, TypeScript.
-* **Database:** PostgreSQL, Redis, MongoDB, Vector Databases.
+* **Database:** PostgreSQL, Redis, MongoDB, Vector Databases
 
 ---
 
