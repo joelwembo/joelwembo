@@ -29,8 +29,7 @@ I specialize in bridging the gap between robust infrastructure and intelligent a
 
 ---
 Vibe Coding Tool with Local/external Models with prodxcloud.com
-<img width="1916" height="911" alt="image" src="https://github.com/user-attachments/assets/6eb20d3f-2ef6-4441-b095-14f70e5e1d7f" />
-
+<img width="1917" height="907" alt="image" src="https://github.com/user-attachments/assets/21436eed-4d4f-48c3-b2a7-6d05368ad889" />
 <img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/189770e8-1f09-4075-9888-fcdf5f14f8b7" />
 
 ### 🧠 Durable Agentic Workflows
