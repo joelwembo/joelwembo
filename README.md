@@ -28,10 +28,13 @@ I specialize in bridging the gap between robust infrastructure and intelligent a
 ## 🚀 Key Projects & Research
 
 ---
-Vibe Coding Tool with Local/external Models with prodxcloud.com
+Vibe Coding Tool with Local/external Models with www.prodxcloud.com
 <img width="1914" height="867" alt="image" src="https://github.com/user-attachments/assets/b39a8743-1ee2-45c3-92b2-6ad817a5ab3e" />
 
 <img width="1910" height="858" alt="image" src="https://github.com/user-attachments/assets/09f1ba15-eb9b-4a63-8e9a-772678cf870c" />
+
+<img width="1900" height="967" alt="image" src="https://github.com/user-attachments/assets/8987facb-8795-405e-a4da-7a6a91281772" />
+
 
 ### 🧠 Durable Agentic Workflows
 Developing resilient AI agents using **Temporal.io** to manage long-running stateful executions. By combining LangChain with Temporal, I ensure that complex AI reasoning tasks are fault-tolerant and human-in-the-loop ready.
